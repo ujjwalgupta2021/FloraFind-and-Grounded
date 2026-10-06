@@ -37,6 +37,35 @@
 🚀 **Live Application Demo**:  
 [https://florafind-and-grounded.vercel.app/](https://florafind-and-grounded.vercel.app/)
 
+### 🎮 How to Use & Run the Project
+
+#### **Option A: Try the Live Web App Online (Easiest)**
+1. Open [https://florafind-and-grounded.vercel.app/](https://florafind-and-grounded.vercel.app/) in any desktop or mobile browser.
+2. Accept real-world outdoor challenges on the **Screen-Time Detox Board** to log outdoor uptime minutes and earn Grass XP.
+3. Switch to the **FloraFind AI Compiler**, type a plant description or upload a photo, and click **Run Gemma AI Analysis**.
+4. *(Optional)* Click the **Key Settings** (🔑) icon in the header to enter your free [Google AI Studio API key](https://aistudio.google.com/). If no key is provided, the app automatically runs in **Offline Simulator Mode** with realistic mock data!
+
+#### **Option B: Run Locally on Your System**
+Because **FloraFind & Grounded** is a 100% pure client-side static application, **no Node.js packages, build tools, or backend servers are needed!**
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/ujjwalgupta2021/FloraFind-and-Grounded.git
+   cd FloraFind-and-Grounded
+   ```
+
+2. **Launch in Your Browser**:
+   - Simply **double-click `index.html`** to open it directly in any web browser.
+   - Or serve it locally using any static web server:
+     ```bash
+     # Python 3:
+     python -m http.server 8000
+
+     # Node serve:
+     npx serve .
+     ```
+   - Navigate to `http://localhost:8000` in your browser.
+
 ---
 
 ## Code
