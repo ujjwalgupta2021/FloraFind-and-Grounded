@@ -35,7 +35,7 @@
 ## Demo
 
 🚀 **Live Application Demo**:  
-[https://ujjwalgupta2021.github.io/FloraFind-and-Grounded/](https://ujjwalgupta2021.github.io/FloraFind-and-Grounded/)
+[https://florafind-and-grounded.vercel.app/](https://florafind-and-grounded.vercel.app/)
 
 ---
 
